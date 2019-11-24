@@ -14,7 +14,7 @@ Usage:
 pip install -e git+https://github.com/gbozee/django-ravepay.git@master#egg=ravepay
 ```
 
-2. Add `paystack` to your `settings` module
+2. Add `ravpay` to your `settings` module
 ```
 INSTALLED_APPS = [
     ...,
